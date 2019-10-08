@@ -1,0 +1,20 @@
+variable_cadena = "los5 88sd"
+cadena_con_numero = "pedro12345"
+cadena_multiple = "pedro 45 hello"
+variable_string = str()
+#print(variable_cadena)
+#print(cadena_con_numero)
+#print(cadena_multiple)
+#print(variable_cadena.capitalize())
+#print(variable_cadena.count("leno"))
+#print(variable_cadena.replace("pro","cadena"))
+#print(variable_cadena.lower())
+#print(variable_cadena.upper())
+#print(variable_cadena.startswith("ADMIPRO"))
+#print(variable_cadena.endswith("admipro"))
+#print(variable_cadena.index("admi"))
+#print(variable_cadena.split("torio"))
+#print(variable_cadena.find("losr"))
+#print(variable_cadena.isnumeric())
+#variable_cadena = variable_cadena.replace(" ","")
+#print(variable_cadena.isalnum())
