@@ -24,4 +24,5 @@ lista_lenguajes_programacion = ["python","amazon","leverp","corea","person","los
 #print(lista_lenguajes_programacion)
 #print(lista_lenguajes_programacion)
 #print(lista_lenguajes_programacion[0:6:2])
-
+print(lista_tipos_variados)
+print(crear_lista_vacia)
